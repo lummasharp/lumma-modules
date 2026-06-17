@@ -9,7 +9,7 @@ This repository contains modules developed by lummasharp, as well as modificatio
 ### Automation
 - Improved GlowingMushroomMacro
 - Improved GlowingMushroomESP
-- AutoCraft - Currently crafts only chum buckets.
+- AutoCraft - Currently crafts only full chum buckets.
 - AutoMobyTrade - Automatically exchanges Glowing Mushrooms for Empty Chum Buckets using /call moby or the abiphone.
 - AutoSell - Sells full chum buckets using the bazaar.
 - More coming soon
@@ -39,7 +39,7 @@ This repository contains modules developed by lummasharp, as well as modificatio
 | Module | Status | Description |
 |----------|----------|----------|
 | GlowingMushroomMacro | 🧪 Improved - Beta | Automatically harvests glowing mushrooms. |
-| GlowingMushroomESP | 🧪 Improved - Beta | Improved detection and remembers unloaded mushrooms. |
+| GlowingMushroomESP | 🧪 Improved - Beta | Improved mushroom detection with unloaded mushroom tracking. |
 | AutoCraft | ✅ Stable | Automatically crafts items from available materials. |
 | AutoMobyTrade | 🚧 In Development | Automatically exchanges Glowing Mushrooms for Empty Chum Buckets using /call moby or the abiphone. |
 
@@ -54,7 +54,7 @@ See the [LICENSE](LICENSE) file for details.
 ## Credits
 
 ### Original Project
-- [RDBT V5 CLient](https://github.com/V5-Client)
+- [RDBT V5 Client](https://github.com/V5-Client)
 
 ### Contributors
 - lummasharp
@@ -64,6 +64,6 @@ See the [LICENSE](LICENSE) file for details.
 
 This repository is not affiliated with, endorsed by, or maintained by the original V5 developers.
 
----
+Use at your own risk. Bugs, configuration issues, and unintended behavior may occur.
 
-Use at your own risk.
+---
