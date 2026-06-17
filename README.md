@@ -1,8 +1,8 @@
-# Lumma Modules
+# lumma's modules
 
 Custom modules, improvements, and utilities for V5.
 
-This repository contains modules developed by Lumma, as well as modifications and extensions of existing V5 modules. The goal is to provide useful automation, quality-of-life improvements, and experimental features that may not be included in the main project.
+This repository contains modules developed by lummasharp, as well as modifications and extensions of existing V5 modules. The goal is to provide useful automation, quality-of-life improvements, and experimental features that may not be included in the main project.
 
 ## Features
 
@@ -30,8 +30,9 @@ This repository contains modules developed by Lumma, as well as modifications an
 1. Download the desired module.
 2. Place it in your V5 modules directory.
 3. Update loader.js or other dependencies.
-4. Reload ChatTriggers using ```/ct load```.
-5. Enable the module in-game using the V5 menu.
+4. Enable developer mode using ```/v5 developerMode true```. This disables automatic updates - when disabling please backup downloaded modules and configs, updates might delete them.
+5. Reload ChatTriggers using ```/ct load```.
+6. Enable the module in-game using the V5 menu.
 
 ## Module List
 
@@ -57,14 +58,12 @@ See the [LICENSE](LICENSE) file for details.
 
 ### Contributors
 - lummasharp
-> *- Want to contribute? DM me [glacite.walker](https://discord.com/users/1513821803229876246) or issue a pull request!*
+> *Want to contribute? DM me [glacite.walker](https://discord.com/users/1513821803229876246) or issue a pull request!*
 
 ## Disclaimer
 
 This repository is not affiliated with, endorsed by, or maintained by the original V5 developers.
 
-Use at your own risk.
-
 ---
 
-*"If a task can be automated, someone will automate it."*
+Use at your own risk.
